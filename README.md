@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - [Papers](#Papers)
-- [Presentations}(#Presentations)
+- [Presentations](#Presentations)
 - [Tools](#Tools)
 - [Webs](#Webs)
 
