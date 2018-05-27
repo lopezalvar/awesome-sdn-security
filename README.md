@@ -6,6 +6,11 @@
 
 ## <a name="Papers" />SDN Security Papers
 + [Exploiting pitfalls in software-defined networking implementation](https://www.researchgate.net/publication/306064144_Exploiting_pitfalls_in_software-defined_networking_implementation) - by Dylan Smith, Victor Cionca, Sean McSweeny, Donna O'Shea [June 2016]
++ [FRESCO: Modular Composable Security Services for Software-Defined Networks](http://www.csl.sri.com/users/vinod/papers/fresco.pdf) - by Seugwon Shin, Phillip Porras, Vinod Yegneswaran, Martin Fong, Guofei Gu, Mabry Tyson [February 2013]
+
+## <a name="Presentations" />SDN Security related presentations
++ [FRESCO: Modular Composable Security Services for Software-Defined Networks](https://es.slideshare.net/rogerjian/fresco-sdn-security-ndss2013-presentation-slides) - NDSS 2013
+
 
 ## <a name="Tools" />SDN Security Tools
 + [sdnpwn](https://github.com/smythtech/sdnpwn)
