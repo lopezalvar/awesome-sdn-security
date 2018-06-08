@@ -10,6 +10,7 @@
 + [Exploiting pitfalls in software-defined networking implementation](https://www.researchgate.net/publication/306064144_Exploiting_pitfalls_in_software-defined_networking_implementation) - by Dylan Smith, Victor Cionca, Sean McSweeny, Donna O'Shea [June 2016]
 + [FRESCO: Modular Composable Security Services for Software-Defined Networks](http://www.csl.sri.com/users/vinod/papers/fresco.pdf) - by Seugwon Shin, Phillip Porras, Vinod Yegneswaran, Martin Fong, Guofei Gu, Mabry Tyson [February 2013]
 + [Outsmarting Network Security with SDN Teleportation](https://www.net.t-labs.tu-berlin.de/~stefan/eurosp17.pdf) by Kashyap Thimmaraju, Liron Schiff, Stefan Schmid [April 2017]
++ [SDN-Guard: DoS Attacks Mitigation in SDN Networks](https://ieeexplore.ieee.org/abstract/document/7776605/) by Lobna Dridi, Mohamed Faten Zhani [2016 5th IEEE International Conference on Cloud Networking (Cloudnet)]
 
 ## <a name="Presentations" />SDN Security related presentations
 + [FRESCO: Modular Composable Security Services for Software-Defined Networks](https://es.slideshare.net/rogerjian/fresco-sdn-security-ndss2013-presentation-slides) - [NDSS 2013]
