@@ -25,7 +25,7 @@ Jean-Pierre Seifert, Anja Feldmann and Stefan Schmid [ACM SOSR 2018, Los Angeles
 
 ## <a name="Webs" />SDN Security related webs
 + [blog.cyberreboot.org](https://blog.cyberreboot.org/)
-	#00d900+ [Deep Session Learning for Cyber Security](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81)
+	+ [Deep Session Learning for Cyber Security](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81)
 	+ [TCPDump, and the care and feeding of an intelligent SDN](https://blog.cyberreboot.org/tcpdump-and-the-care-and-feeding-of-an-intelligent-sdn-eca6e7506342)
 + [SDNsecurity.org](http://www.sdnsecurity.org/)
 + [sdnpwn.net](https://sdnpwn.net/)
