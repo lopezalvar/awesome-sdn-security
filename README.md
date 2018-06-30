@@ -30,3 +30,9 @@ Jean-Pierre Seifert, Anja Feldmann and Stefan Schmid [ACM SOSR 2018, Los Angeles
 + [SDNsecurity.org](http://www.sdnsecurity.org/)
 + [sdnpwn.net](https://sdnpwn.net/)
 	+ [Data Plane ARP Cache Poisoning](https://sdnpwn.net/2017/09/21/data-plane-arp-cache-poisoning/)
+
+## <a name="Vulnerabilities" />SDN Security related vulnerabilities
++ **HPE VAN**
+	+ [HPE VAN SDN Unauthenticated Remote Root Vulnerability](https://korelogic.com/Resources/Advisories/KL-001-2018-008.txt) *25 June 2018*
+		+ [packetstormsecurity.com](https://packetstormsecurity.com/files/148313/HP-Enterprise-VAN-SDN-Controller-2.7.18.0503-Remote-Root.html)
+		+ [exploit-db.com](https://www.exploit-db.com/exploits/44951/)
