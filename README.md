@@ -35,5 +35,6 @@ Jean-Pierre Seifert, Anja Feldmann and Stefan Schmid [ACM SOSR 2018, Los Angeles
 ## <a name="Vulnerabilities" />SDN Security related vulnerabilities
 + **HPE VAN**
 	+ [HPE VAN SDN Unauthenticated Remote Root Vulnerability](https://korelogic.com/Resources/Advisories/KL-001-2018-008.txt) *25 June 2018*
-		+ [packetstormsecurity.com](https://packetstormsecurity.com/files/148313/HP-Enterprise-VAN-SDN-Controller-2.7.18.0503-Remote-Root.html)
-		+ [exploit-db.com](https://www.exploit-db.com/exploits/44951/)
+		+ [packetstormsecurity.com](https://packetstormsecurity.com/files/148313/HP-Enterprise-VAN-SDN-Controller-2.7.18.0503-Remote-Root.html) *Python exploit*
+		+ [exploit-db.com](https://www.exploit-db.com/exploits/44951/) *Python exploit*
+		+ [exploit-db.com](https://www.exploit-db.com/exploits/44991/) *Metasploit Module*
