@@ -14,13 +14,13 @@
 + [SDN-Guard: DoS Attacks Mitigation in SDN Networks](https://ieeexplore.ieee.org/abstract/document/7776605/) by Lobna Dridi, Mohamed Faten Zhani [2016 5th IEEE International Conference on Cloud Networking (Cloudnet)]
 + [Software-Defined Networking (SDN) and Distributed Denial of Service (DDoS) Attacks in Cloud Computing Environments: A Survey, Some Research Issues, and Challenges](https://ieeexplore.ieee.org/abstract/document/7289347/) by  Qiao Yan,  F. Richard Yu,  Qingxiang Gong [IEEE Communications Surveys & Tutorials ( Volume: 18, Issue: 1, Firstquarter 2016 )]	
 + [SDN-enabled Traffic Engineering and Advanced Blackholing at IXPs](http://conferences.sigcomm.org/sosr/2017/papers/sosr17-demo-blackholing.pdf) by Christoph Dietzel, Gianni Antichi, Ignacio Castro, Eder L Fernandes, Marco Chiesa, Daniel Kopp [SOSR ’17, April 3–4, 2017, Santa Clara, CA, USA]
++ [SDN Southbound Threats](https://www.sans.org/reading-room/whitepapers/networksecurity/paper/38700) by Mohamed Mahdy [November 20, 2018]
 ## <a name="Presentations" />SDN Security related presentations
 + [FRESCO: Modular Composable Security Services for Software-Defined Networks](https://es.slideshare.net/rogerjian/fresco-sdn-security-ndss2013-presentation-slides) - [NDSS 2013]
 + [Outsmarting Network Security with SDN Teleportation](https://www.net.t-labs.tu-berlin.de/~stefan/eurosp17slides.pdf) - by Kashyap Thimmaraju, Liron Schiff, Stefan Schmid [IEEE EURo S&P, PARIS, FRANCE April 2017] 
 + [Taking Control of SDN-based Cloud Systems via the Data Plane](http://users.sec.t-labs.tu-berlin.de/~hashkash/talks/TakingControlofSDN-basedCloudSystemsviatheDataPlane.pdf) - by Kashyap Thimmaraju, Bhargava Shastry, Tobias Fiebig, Felicitas Hetzelt,
 Jean-Pierre Seifert, Anja Feldmann and Stefan Schmid [ACM SOSR 2018, Los Angeles, USA March 2018]
 + [I DPID It My Way! A Covert Timing Channel in Software-Defined Networks](http://users.sec.t-labs.tu-berlin.de/~hashkash/talks/networking18-slides.pdf) - by Robert Krosche, Kashyap Thimmaraju, Liron Schiff and Stefan Schmid [IFIP Networking, Zurich, Switzerland, May 2018]
-+ [SDN Southbound Threats](https://www.sans.org/reading-room/whitepapers/networksecurity/paper/38700) by Mohamed Mahdy [November 20, 2018]
 
 ## <a name="Tools" />SDN Security Tools
 + [sdnpwn](https://github.com/smythtech/sdnpwn)
