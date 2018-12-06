@@ -24,7 +24,7 @@ Jean-Pierre Seifert, Anja Feldmann and Stefan Schmid [ACM SOSR 2018, Los Angeles
 + [I DPID It My Way! A Covert Timing Channel in Software-Defined Networks](http://users.sec.t-labs.tu-berlin.de/~hashkash/talks/networking18-slides.pdf) - by Robert Krosche, Kashyap Thimmaraju, Liron Schiff and Stefan Schmid [IFIP Networking, Zurich, Switzerland, May 2018]
 
 ## <a name="Talks" />SDN Security conference talks
-+ [How To Hack SD-WAN And Keep Your Sanity? | Sergei Gordeichik](https://www.youtube.com/watch?v=bM92UxLnuAs&t=0s&list=PLaIv9WEAzYZPwyGTRZV85NSGaEe3EbJQ9&index=8)
++ [How To Hack SD-WAN And Keep Your Sanity?](https://www.youtube.com/watch?v=bM92UxLnuAs&t=0s&list=PLaIv9WEAzYZPwyGTRZV85NSGaEe3EbJQ9&index=8) by Sergei Gordeichik [Ekoparty, 28 nov. 2018]
 
 
 ## <a name="Tools" />SDN Security Tools
