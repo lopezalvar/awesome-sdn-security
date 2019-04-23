@@ -18,6 +18,7 @@
 + [SDN Southbound Threats](https://www.sans.org/reading-room/whitepapers/networksecurity/paper/38700) by Mohamed Mahdy [November 20, 2018]
 + [SLDP: A secure and lightweight link discovery protocol for software defined networking](https://www.sciencedirect.com/science/article/abs/pii/S1389128618307916) by Ajay Nehra, Meenakshi Tripathi, Manoj Singh Gaur, Ramesh Babu Battula and Chhagan Lal [Computer Networks
 Volume 150, 26 February 2019, Pages 102-116]
++ [A comprehensive survey of security threats and their mitigation techniques for next‐generation SDN controllers](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5300) by Tao Han, Syed Rooh Ullah Jan, Zhiyuan Tan, Muhammad Usman, Mian Ahmad Jan, Rahim Khan, Yongzhao Xu [Concurrency and Computation: Practice and Experience, 17 April 2019]
 ## <a name="Presentations" />SDN Security related presentations
 + [FRESCO: Modular Composable Security Services for Software-Defined Networks](https://es.slideshare.net/rogerjian/fresco-sdn-security-ndss2013-presentation-slides) - [NDSS 2013]
 + [Outsmarting Network Security with SDN Teleportation](https://www.net.t-labs.tu-berlin.de/~stefan/eurosp17slides.pdf) - by Kashyap Thimmaraju, Liron Schiff, Stefan Schmid [IEEE EURo S&P, PARIS, FRANCE April 2017] 
