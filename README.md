@@ -6,6 +6,7 @@
 - [Conference Talks](#Talks)
 - [Tools](#Tools)
 - [Webs](#Webs)
+- [Blog posts](#BlogPosts)
 - [Vulnerabilities](#Vulnerabilities)
 
 ## <a name="Papers" />SDN Security Papers
@@ -42,6 +43,11 @@ Volume 150, 26 February 2019, Pages 102-116]
 + [SDNsecurity.org](http://www.sdnsecurity.org/)
 + [sdnpwn.net](https://sdnpwn.net/)
 	+ [Data Plane ARP Cache Poisoning](https://sdnpwn.net/2017/09/21/data-plane-arp-cache-poisoning/)
+
+
+## <a name="BlogPosts" />SDN Security related Blog Posts
++ [An Exploit Chain Against Citrix SD-WAN](https://medium.com/tenable-techblog/an-exploit-chain-against-citrix-sd-wan-709db08fb4ac) by Chris Lyne [Tenable TechBlog, 11 july 2019]
+
 
 ## <a name="Vulnerabilities" />SDN Security related vulnerabilities
 + **HPE VAN**
